@@ -1,0 +1,2 @@
+*** Esta es una aplicacion de netflix creada por Cistian Vazquez, un hermoso proyecto front-end, que aplica varias tecnologias que aspiro a dominar, se creara un pequeño backend para poder agregar a la lista de favoritos, asi como una pasarela de pagos con targeta de credito y mercado pago para su uso de forma correcta
+**** empezamos trabajando con el componente Login y singup, para estop utilizaremos firebaseAuth, y autentication user.
